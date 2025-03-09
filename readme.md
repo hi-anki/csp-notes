@@ -122,3 +122,7 @@
   Content-Security-Policy: img-src *.example.org example.org
   ```
   > This will allow resources from `.example.com` domain and sub-domains only.
+
+# References
++ [CSP MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
++ ChatGPT
